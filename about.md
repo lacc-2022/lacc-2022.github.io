@@ -65,7 +65,7 @@ _September 15th , 2021_ – Final Program Delivery
 
 **Chair**: PhD. Orestes Llanes Santiago, CUJAE
 
-In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/open?id=0B_wRdE369TgjQ0xSU2JqSFNRU0hVLUhWQ2J4TFl3MC0walZ3)
+In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://lacc-2022.github.io/about)
 
 ### INITIAL GUIDES FOR AUTHORS
 
@@ -77,6 +77,6 @@ The papers will be sent by using the LACC2021 website.
 
 ### Paper submission
 
-Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
+Paper submission must be done via [EquinOCS](https://equinocs.springernature.com/service/LACC2022).
 
-If you wish to see information about papers submission see[ Call for papers](https://drive.google.com/file/d/14zUu7tduOtdEj8DgoE6RtLYIx521AVnw/view?usp=sharing).
+If you wish to see information about papers submission see[ Call for papers](https://lacc-2022.github.io/about).
