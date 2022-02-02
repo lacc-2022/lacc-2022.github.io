@@ -61,12 +61,6 @@ _September 4th , 2021_ – End of Late regular registration (up to 2 papers)
 
 _September 15th , 2021_ – Final Program Delivery
 
-### NATIONAL ORGANIZING COMMITTEE
-
-**Chair** :PhD. Ivón O. Benítez González, CUJAE
-
-In the National Organizing Committee participate 20 people from different national Universities and companies related to Automatic Control .
-
 ### INTERNATIONAL PROGRAM COMMITTEE
 
 **Chair**: PhD. Orestes Llanes Santiago, CUJAE
@@ -86,9 +80,3 @@ The papers will be sent by using the LACC2021 website.
 Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
 
 If you wish to see information about papers submission see[ Call for papers](https://drive.google.com/file/d/14zUu7tduOtdEj8DgoE6RtLYIx521AVnw/view?usp=sharing).
-
-## Travel and Accommodation
-
-This time we are pleased to announce that as a carrier to the event we will have **Copa Airlines** offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
-
-In the sense of solving accommodation stuff you can consult the agency [RioTravelExpress](https://riotravel.express/product/xix-congreso-latinoamericano-de-control-automatico/).
