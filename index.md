@@ -24,8 +24,8 @@ services:
 - description: ''
   icon: "/uploads/2020/07/20/execution-process-operation-execute-administration-512.png"
   heading: Process and Power Systems
-sub_heading: October 4th - October 8th, 2021, La Habana
-textline: The main objective of LACC2021 is to bring the control world community,
+sub_heading: November 28th - December 2nd, 2022, La Habana
+textline: The main objective of LACC2022 is to bring the control world community,
   and especially the Control Latin American community to analyze the current development
   and future challenges of Automatic Control and particularly in Latin American.
 hero_button:
@@ -42,9 +42,9 @@ menu:
     weight: 1
 
 ---
-# The 500 years host
+# The 500+ years host
 
-Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Capital of Cuba with 500 years of history, is a city that never sleeps: its culture, traditions and colonial architecture makes it a great tourist destination.
+Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Capital of Cuba with 500+ years of history, is a city that never sleeps: its culture, traditions and colonial architecture make it a great touristic destination.
 
 The participants of the Conference will also find in Havana a large number of research centres and universities such as La [Universidad Tecnológica de La Habana José Antonio Echeverría](https://cujae.edu.cu),mostly known as **CUJAE**, the only and biggest technological university of Cuba. Here you are invited to visit the **Instrumentation and Control Laboratory**, one of the most advanced of its kind in the region.
 
@@ -58,4 +58,4 @@ It may be sent original papers in all technical areas of Automatic Control with 
 
 ### INVITED SESIONS
 
-Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewal Energies and Automation; Digitalization, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
+Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewable Energies and Automation; Digitalization, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
