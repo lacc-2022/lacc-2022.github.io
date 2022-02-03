@@ -1,6 +1,6 @@
 title: Latin American Control Congress 2022
 short_title: LACC 2022
-description: Automatic Control Congress website. Built with Jekyll via Forestry CMS by Alberto Ramos
+description: Automatic Control Congress website.
 baseurl:
 permalink: "/:path/"
 defaults:
