@@ -45,27 +45,33 @@ Invited sessions consist in six regular papers based on invitation by organizers
 
 ### KEY DATES
 
-_February 28th , 2021_ – Proposal of Invited Sessions
+_April 30th, 2022_ – Proposal of Invited Sessions
 
-_April 30th , 2021_ – Draft Papers Submission
+_June 30th, 2022_ – Draft Papers Submission
 
-_June 20th , 2021_ - Notification of acceptance
+_August 20th, 2022_ - Notification of acceptance
 
-_July 4th , 2021_ – Begin of Early regular registration (up to 2 papers)
+_August 25th, 2022_ – Begin of Early regular registration (up to 2 papers)
 
-_July 20th , 2021_ - Final paper submission
+_September 20th, 2022_ - Final paper submission
 
-_August 4th , 2021_ – End of Early regular registration (up to 2 papers)
+_October 1st , 2022_ – End of Early regular registration (up to 2 papers)
 
-_September 4th , 2021_ – End of Late regular registration (up to 2 papers)
+_October 25th, 2022_ – End of Late regular registration (up to 2 papers)
 
-_September 15th , 2021_ – Final Program Delivery
+_October 31th, 2022_ – Final Program Delivery
+
+### NATIONAL ORGANIZING COMMITTEE
+**Chair**: PhD. Adrián Rodríguez Ramos, CUJAE
+
+In the National Organizing Committee participate 20 people from different national Universities and
+companies related to Automatic Control .
 
 ### INTERNATIONAL PROGRAM COMMITTEE
 
 **Chair**: PhD. Orestes Llanes Santiago, CUJAE
 
-In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://lacc-2022.github.io/about)
+In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/file/d/1hIrjQMyghZQBDxPxv40b6bMZIiOcD1S9/view?usp=sharing)
 
 ### INITIAL GUIDES FOR AUTHORS
 
@@ -79,4 +85,4 @@ The papers will be sent by using the LACC2021 website.
 
 Paper submission must be done via [EquinOCS](https://equinocs.springernature.com/service/LACC2022).
 
-If you wish to see information about papers submission see[ Call for papers](https://lacc-2022.github.io/about).
+If you wish to see information about papers submission see [Call for papers](https://drive.google.com/file/d/16MIPGNn0236oFK-YyilRIqHm-2SW5NaV/view?usp=sharing).
