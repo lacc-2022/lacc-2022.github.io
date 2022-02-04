@@ -12,11 +12,11 @@
                 {% for person in people %}
                     <div class="pure-u-1 pure-u-md-1-4">
                         <div class="post">
-                            <div class="post-header">
                             {% if person.committee %}
                             <div>
                                 <h2>{{ person.committee }}</h2>
                             </div>{% endif %}
+                            <div class="post-header">
                             {% if person.thumbnail %}
                                 <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}">
                             {% else %}
