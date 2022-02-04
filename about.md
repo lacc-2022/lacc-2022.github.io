@@ -41,7 +41,7 @@ It may be sent original papers in all technical areas of Automatic Control with 
 
 ### INVITED SESIONS
 
-Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewal Energies and Automation; Digitalization, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
+Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewable Energies and Automation; Automation in Biopharmaceutical industry, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
 
 ### KEY DATES
 
@@ -64,25 +64,25 @@ _October 31th, 2022_ – Final Program Delivery
 ### NATIONAL ORGANIZING COMMITTEE
 **Chair**: PhD. Adrián Rodríguez Ramos, CUJAE
 
-In the National Organizing Committee participate 20 people from different national Universities and
+In the National Organizing Committee participate 6 people from different national Universities and
 companies related to Automatic Control .
 
 ### INTERNATIONAL PROGRAM COMMITTEE
 
 **Chair**: PhD. Orestes Llanes Santiago, CUJAE
 
-In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/file/d/1hIrjQMyghZQBDxPxv40b6bMZIiOcD1S9/view?usp=sharing)
+In the International Program Committee participate 60 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/file/d/1hIrjQMyghZQBDxPxv40b6bMZIiOcD1S9/view?usp=sharing)
 
 ### INITIAL GUIDES FOR AUTHORS
 
-The papers presented in the LACC 2021 will be published in a [book of the series Studies in System, Decision and Control](https://www.springer.com/series/13304) of Springer.
+The papers presented in the LACC 2022 will be published in a [book of the series Studies in System, Decision and Control](https://www.springer.com/series/13304) of Springer.
 
 Papers will not have more than 10 pages, including figures and bibliography. They must be presented in the [Springer chapter book template](https://www.springer.com/de/authors-editors/book-authors-editors/resources-guidelines/book-manuscript-guidelines/manuscript-preparation/5636).
 
-The papers will be sent by using the LACC2021 website.
+The papers will be sent by using the LACC 2022 website.
 
 ### Paper submission
 
 Paper submission must be done via [EquinOCS](https://equinocs.springernature.com/service/LACC2022).
 
-If you wish to see information about papers submission see [Call for papers](https://drive.google.com/file/d/16MIPGNn0236oFK-YyilRIqHm-2SW5NaV/view?usp=sharing).
+Download [Call for papers](https://drive.google.com/file/d/16MIPGNn0236oFK-YyilRIqHm-2SW5NaV/view?usp=sharing).
