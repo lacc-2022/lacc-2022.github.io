@@ -42,5 +42,5 @@ menu:
     weight: 1
 
 ---
-# Our site has changed, go to [lacc2022.github.io](lacc-2022.github.io)
+# Our site has changed, go to [lacc2022.github.io](lacc2022.github.io)
 
