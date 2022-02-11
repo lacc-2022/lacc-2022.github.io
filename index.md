@@ -42,18 +42,5 @@ menu:
     weight: 1
 
 ---
-# The 502+ years host
+# Our site has changed, go to [lacc2022.github.io](lacc-2022.github.io)
 
-Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Capital of Cuba with 502+ years of history, is a city that never sleeps: its culture, traditions and colonial architecture make it a great touristic destination.
-
-The Conference will take place at the [Havana International Conference Center](https://www.eventospalco.com/en/contenido-pagina-de-inicio/welcome-to-our-company)  which is a prestigious institution specialized in the organization of events and congresses. 
-
-The Congress is organized by Red de Automática de CUBA (RAC) and the [Universidad Tecnológica de La Habana José Antonio Echeverría](cujae.edu.cu), mostly known as CUJAE, the only and biggest technological university of Cuba
-
-### TECHNICAL AREAS
-
-It may be sent original papers in all technical areas of Automatic Control with special interest in Design Methods; Computers, Cognition and Communications; Mechatronics, Robotics and Components; Manufacturing and Logistics Systems and Process and Power Systems.
-
-### INVITED SESIONS
-
-Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewable Energies and Automation; Automation in Biopharmaceutical industry, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
